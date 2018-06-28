@@ -1,0 +1,10 @@
+
+refJar/
+
+pickleJar/
+
+dataJar/
+
+__pycache__/
+
+\.ipynb_checkpoints/
